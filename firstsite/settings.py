@@ -91,8 +91,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'u596845236_DByzthr',
         'USER': 'u596845236_byzthr',
-        'PASSWORD': 'DbBy7072:',
-        'HOST': 'http://srv1048.hstgr.io/',
+        'PASSWORD': 'DbBy7072',
+        'HOST': 'srv1048.hstgr.io',
+        'PORT': '3306',
     },
     'tamed_project': {
         'ENGINE': 'django.db.backends.mysql',
