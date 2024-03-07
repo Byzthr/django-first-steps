@@ -89,11 +89,17 @@ DATABASES = {
     },
     'byzthr.com': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'djangofs',
-        'USER': 'byzthr',
-        'PASSWORD': '7072',
-        'HOST': 'localhost',
-        'PORT': '3306',
+        'NAME': 'u596845236_DByzthr',
+        'USER': 'u596845236_byzthr',
+        'PASSWORD': 'DbBy7072:',
+        'HOST': 'http://srv1048.hstgr.io/',
+    },
+    'tamed_project': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'u596845236_tpdb',
+        'USER': 'u596845236_tamed_team',
+        'PASSWORD': 'D$545!o0C:',
+        'HOST': 'http://srv1048.hstgr.io/',
     }
 }
 
